@@ -1,5 +1,7 @@
-title: Website Name
+title: Explorations in Conversation
 ##
 ##
 showdownloads: true
-theme: jekyll-theme-minimal
+remote_theme: riggraz/no-style-please
+plugins:
+  - jekyll-remote-theme
