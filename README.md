@@ -1,6 +1,6 @@
 # Explorations in Conversation
 
-## Collection of poems (??)
+## The Body of Work
 
 {% for post in site.posts %}
 - [{{ post.title }}]({{ post.url }})
