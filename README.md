@@ -2,5 +2,6 @@
 
 ## Collection of poems (??)
 
-## list entry one
-## list entry two
+{% for post in site.posts %}
+- [{{ post.title }}]({{ post.url }})
+{% endfor %}
