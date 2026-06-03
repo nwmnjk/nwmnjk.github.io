@@ -1,5 +1,5 @@
 # Iterations of
 
-{% for post in site.posts %}
+{% for post in site.poems %}
 - [{{ post.title }}]({{ post.url }})
 {% endfor %}

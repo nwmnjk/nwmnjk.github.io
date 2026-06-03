@@ -1,2 +1,7 @@
-title: Exploring Conversation
+title: Iterations of
 showdownloads: true
+
+collections:
+  poems:
+    output: true
+    sort_by: date
