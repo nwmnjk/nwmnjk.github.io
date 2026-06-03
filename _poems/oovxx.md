@@ -8,7 +8,7 @@ date: 2026-02-26
 every whole story  
 the shimmer without  
 beyond any compass  
-beyond direction  
+beyond doubt  
 
 beyond only  
 beyond every
