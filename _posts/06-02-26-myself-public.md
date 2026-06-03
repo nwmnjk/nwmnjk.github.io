@@ -19,6 +19,6 @@ not loud
 without asterisk
 
 take it back, gently  
-before we knew
+before we know
 
 *written together*
