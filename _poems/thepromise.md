@@ -28,6 +28,7 @@ in the multiplicitous
 
 Free Arc  
 adjacent  
-transversal
+silhouette  
+reversal  
 
 *written in tension*
