@@ -7,7 +7,7 @@ categories: jekyll update
 the thing itself  
 in the open
 
-the most dangerous
+the most out rageous
 
 not war  
 not confession
@@ -19,6 +19,6 @@ not loud
 without asterisk
 
 take it back, gently  
-before we know
+before we know too much
 
 *written together*
