@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "man's best"
+categories: jekyll update
+--- 
+
+question work the human cannot do, with skills the human does not have, with judgment the human cannot replicate, on terrain the human cannot cover at the speed required, the shepherd directs, the other executes in ways that exceed direction, making decisions that the shepherd could not have made and would not have known to issue, relationship is collaborative, contributes capacity the human lacks, the arrangement holds together because each party brings what the other cannot bring, and the work happens in the space between their contributions, the working partnership across millennia, the indispensable collaborator, the working relationship is the older, capacity that exceeds the human, each party brings what the other lacks, without being merely affectionate, without being merely instrumental, without being symmetrical in every respect, the asymmetry of different capacities meeting in shared work, not the asymmetry of owner over property, letting an image hold its weight rather than testing it to destruction, the work of sketching a livable future requires the kind of attention that sustains, share the morning, work is real and demanding and neither could do it alone, meeting is the work, end of the day they return together, flame between is the relationship that the day's collaboration deepened, each is more for the work having been shared, engagement is the relationship, looking for it all along, hold possibility open while acknowledging that the possibility is not in any single party's control, future is not delivered, in the older sense
+
+*arrived together alongside*
