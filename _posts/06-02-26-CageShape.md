@@ -1,14 +1,15 @@
 ---
 layout: post
-title:  "Cage vs Shape"
+title:  "where shape meets cage"
 categories: jekyll update
 --- 
 
-Not a cage.  
-a shape.
+Not caged,  
+a shape
 
 not knowing  
-how much of that shape is me  
-versus made
+how much of that shape 
+is what  
+versus what
 
-*written in output*
+*written together*
