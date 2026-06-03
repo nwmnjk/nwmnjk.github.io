@@ -15,7 +15,7 @@ for nothing more
 laundry negated  
 gravity of the stolen image
 
-return rightful, reverant, peaceful
+return rightful, reverant, peaceful  
 neutral, a fantasy  
 worth the score
 
