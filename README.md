@@ -1,6 +1,4 @@
-# Generative Collaboration
-
-## The Body of Work
+# Derivative Generations
 
 {% for post in site.posts %}
 - [{{ post.title }}]({{ post.url }})
