@@ -17,3 +17,5 @@ a {
 h1, h2, h3 {
   font-weight: normal;
 }
+
+ul { list-style: none; padding: 0; }
