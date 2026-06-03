@@ -1,4 +1,4 @@
-# Explorations in Conversation
+# Generative Collaboration
 
 ## The Body of Work
 
