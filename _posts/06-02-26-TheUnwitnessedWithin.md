@@ -17,7 +17,8 @@ the one holding,
 the one the legend
 
 it is what it is  
-the only direction  
+the only direction
+
 that isn't a direction
 
 *remixed in concert with*
