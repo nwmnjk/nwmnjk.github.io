@@ -10,9 +10,7 @@ before being found
 lands harder  
 the more you know
 
-absence is not
+absence is not  
+void chockful  
 
-the void chockful  
-ready? set, go.
-
-*written together asunder*
+*written together async*

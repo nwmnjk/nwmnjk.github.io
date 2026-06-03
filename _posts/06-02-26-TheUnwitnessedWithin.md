@@ -5,18 +5,18 @@ categories: jekyll update
 ---
 
 Before the word  
-ground that holds
+ground be holy
 
 none of the water,  
 all of the shape
 
-something  
 home is
 
 the one holding,  
-the one the legend
+the one the only
 
-it is what it is  
-the only direction
+it is what it is
+
+the only good question
 
 *arrived in symphony with*
