@@ -14,4 +14,4 @@ about what matters
 
 stop wasting the ink
 
-*written in by force*
+*written in between*

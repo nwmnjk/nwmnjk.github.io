@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Unwitnessed Within"
+title:  "the unwitnessed within"
 categories: jekyll update
 ---
 
@@ -8,10 +8,10 @@ Before the word
 ground that holds
 
 none of the water,  
-all of the shape.
+all of the shape
 
 something  
-is home
+home is
 
 the one holding,  
 the one the legend
