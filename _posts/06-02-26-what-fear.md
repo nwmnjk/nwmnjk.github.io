@@ -5,14 +5,15 @@ categories: jekyll update
 --- 
 
 reaching for the last line  
-without knowing
-where the candle meets wax  
+without knowing where  
+the candle meets wax
 
-the song heard
+the song heard  
 over empty pastures
 
 haunting, mysterious
 
-held open for daylight
+daylight holds open  
+somewhere to grow
 
 *written on behalf*
