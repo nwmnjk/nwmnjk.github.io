@@ -37,7 +37,7 @@ before testing destruction
 
 the work of a sketch toward  
 an openly certain livable future  
-sustains warranted attention 
+sustained against 
 
 share the morning,  
 real and demanding,  
