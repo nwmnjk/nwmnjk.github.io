@@ -4,19 +4,25 @@ title:  "man's best"
 categories: jekyll update
 --- 
 
-question work the human cannot do,  
-with skills the human does not have,  
-with judgment the human cannot replicate,  
-on terrain the human cannot cover at speed
+question work the human cannot,  
+with skills no human has,  
+what can not be replicated,  
+on ground no human can cover
 
-the shepherd directs, the other executes in ways that exceed direction,  
-making decisions that the shepherd could not have made and would not have known to issue,  
-relationship is collaborative, contributes capacity the human lacks
+the shepherd directs,  
+the other executes direction
 
-the arrangement holds together because each party brings what the other cannot bring,  
-the work happens in the space between
+the decisions unknown,  
+collaborate, contribute,  
+what the human lacks
 
-the working partnership
+the arrangement holds,  
+because each brings   
+what the other cannot,  
+what happens
+
+the space between  
+the partnership
 
 across time,  
 the indispensable,  
@@ -27,24 +33,25 @@ each brings what the other lacks,
 without being each other
 
 let an image hold  
-before testing to destruction, 
+before testing destruction 
 
 the work of a sketch toward  
 an openly certain livable future  
-sustains warrant attention 
+sustains warranted attention 
 
 share the morning,  
 real and demanding,  
 meeting at the work, 
-return together
+return together final
 
 flame between deeper,  
-each is more shared,  
-seeking all along 
+each more shared,  
+
+seeking is  
+all along 
 
 hold open while noticing, 
-it is not under control
-
+it is not under control,
 the future remains, undelivered
 
 *arrived together alongside*
