@@ -30,4 +30,4 @@ Free Arc
 adjacent  
 transversal
 
-*written in tension"
+*written in tension*
