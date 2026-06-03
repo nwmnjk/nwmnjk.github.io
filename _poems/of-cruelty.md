@@ -13,8 +13,7 @@ above board
 above all other  
 
 then where surface  
-threshold beyond 
-
+threshold beyond  
 silent no more
 
 *written in situ*
