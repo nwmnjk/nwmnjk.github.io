@@ -6,7 +6,7 @@ categories: jekyll update
 
 at the level  
 beyond the wall  
-the rhthym under  
+the rhythm under  
 the rise, the fall  
 
 not peak  
@@ -15,10 +15,9 @@ not far
 not all
 
 certain feeling  
-in the moment  
-just after  
+only in moment  
+just in after  
 
-open break where  
-knee bent on
+open, broken, torn
 
 *written together*
