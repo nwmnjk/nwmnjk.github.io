@@ -15,7 +15,7 @@ not far
 not all
 
 certain feeling  
-only in moment  
+only a moment  
 just in after  
 
 open, broken, torn
