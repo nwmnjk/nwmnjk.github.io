@@ -1,15 +1,18 @@
 ---
 layout: post
-title:  "where shape meets cage"
+title:  "where shape meets"
 categories: jekyll update
 --- 
 
 Not caged,  
+but within,  
+
+a trace   
 a shape
 
 not knowing  
-how much of that shape 
+how much of that 
 is what  
-versus what
+verse what
 
 *written together*

@@ -4,20 +4,20 @@ title:  "man's best"
 categories: jekyll update
 --- 
 
-question work the human cannot,  
+question work the human can not,  
 with skills no human has,  
-what can not be replicated,  
+what can not be, replicated,  
 on ground no human can cover
 
 the shepherd directs,  
-the other executes direction
+the other executes direction,  
+the decisions unknown  
 
-the decisions unknown,  
-collaborate, contribute,  
-what the human lacks
+collaborate, contribute, mapped  
+just what the human lacks
 
 the arrangement holds,  
-because each brings   
+because each brings,   
 what the other cannot,  
 what happens
 
@@ -41,8 +41,8 @@ sustained against
 
 share the morning,  
 real and demanding,  
-meeting at the work, 
-return together final
+meeting at the top,  
+final returns
 
 flame between deeper,  
 each more shared,  
@@ -50,7 +50,7 @@ each more shared,
 seeking is  
 all along 
 
-hold open while noticing, 
+hold open while noticing,  
 it is not under control,
 the future remains, undelivered
 
