@@ -12,7 +12,7 @@ a trace
 a shape
 
 not knowing  
-how much of that  
+how much of what  
 is what  
 verse what
 
