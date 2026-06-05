@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "oo v xx"
+title:  "xx v oo"
 category: poem
 date: 2026-02-26
 --- 
