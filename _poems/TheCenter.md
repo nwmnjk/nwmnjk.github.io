@@ -12,12 +12,12 @@ than true scope
 what garbage  
 are not
 
-best a streampoint
-brush stroke etiolated
+best a streampoint  
+brush stroke etiolated  
 gesture not quite the most
 
-the older question
-of mystery of war of want
-overly avoided
+the older question  
+of mystery of war of want  
+overly overlooked
 
-*written in situ**
+*written in situ*
