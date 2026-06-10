@@ -49,21 +49,29 @@ ul { list-style: none; padding: 0; }
     stroke-linejoin: round;
   }
 
-  .btn-subscribe {
-    background: #a78bfa;
-    color: #fff;
-    border: none;
-    border-radius: 45px;
-    padding: 8px 18px;
-    font-size: 14px;
-    font-weight: 500;
-    cursor: pointer;
-    letter-spacing: 0.01em;
-  }
+	.btn-subscribe {
+	  background: transparent;      /* Removes the solid purple fill */
+	  color: #a78bfa;               /* Changes text color to purple so it's visible */
+	  border: 1px solid #a78bfa;    /* Adds a thin stroke outline */
+	  border-radius: 4px;           /* Makes it rectangular (change to 0px for sharp 90° corners) */
+	  padding: 8px 18px;
+	  font-size: 14px;
+	  font-weight: 500;
+	  cursor: pointer;
+	  letter-spacing: 0.01em;
+	  transition: all 0.2s ease;    /* Optional: Smooths out the hover effect below */
+	}
 
+	/* Optional Hover Effect */
+	.btn-subscribe:hover {
+	  background: #a78bfa;          /* Inverts back to solid on hover */
+	  color: #fff;                  /* Turns text white on hover */
+	}
+	
+	/*
   .btn-subscribe:hover {
     background: #8b5cf6;
-  }
+  } */
 
   .btn-signin {
     background: none;
