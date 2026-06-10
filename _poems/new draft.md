@@ -26,4 +26,4 @@ idea around kindling fire, fire kindle, the sound of a rainforest
 
 reaching, yearing, never just but
 onward and over
-behind every wall
+behind every all
