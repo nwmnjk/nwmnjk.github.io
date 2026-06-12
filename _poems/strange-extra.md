@@ -14,6 +14,6 @@ never ending growth?
 expect new information  
 disorder to flow
 
-
-
+<br>
+<br>
 *written in concert with*

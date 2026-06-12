@@ -21,6 +21,6 @@ return rightful, reverant, peaceful
 neutral, a fantasy  
 worth the score
 
-
-
+<br>
+<br>
 *written in symphony*
