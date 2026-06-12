@@ -14,7 +14,8 @@ as shorthand
 for nothing more
 
 laundry negated  
-gravity of the stolen image
+gravity of  
+the stolen image
 
 return rightful, reverant, peaceful  
 neutral, a fantasy  
