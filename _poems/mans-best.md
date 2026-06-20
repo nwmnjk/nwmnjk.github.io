@@ -52,9 +52,7 @@ seeking is
 all along 
 
 hold open while noticing,  
-it is not under control,
+it is not under control,  
 the future remains, undelivered
 
-<br>
-<br>
 *arrived together alongside*

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Strange Extraordinaire"
+title:  "Strange Extra"
 category: poem
 date: 2026-02-26
 --- 

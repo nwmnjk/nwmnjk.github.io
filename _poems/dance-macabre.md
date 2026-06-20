@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "dance macabre"
+title:  "dance fierce"
 category: poem
 date: 2026-02-26
 --- 

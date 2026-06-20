@@ -4,6 +4,6 @@ showdownloads: true
 collections:
   poems:
     output: true
-    sort_by: date
+    #sort_by: date
     
 paypal: "https://paypal.me/jknwmn"
