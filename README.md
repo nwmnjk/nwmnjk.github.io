@@ -1,4 +1,4 @@
-# Iterations {: style=font-family:"impact;"}
+# Iterations
 
 <!--{% include navbar.html %}-->
 {% for post in site.poems %}
